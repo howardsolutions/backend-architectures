@@ -26,4 +26,26 @@ of WHEN and HOW to implement them?
 
 - Architecture designs play a KEY ROLE in ENSURING that THE FINAL PRODUCT MEETS USER NEED and BUSINESS OBJECTIVES.
 
+They help validate system complexity, ensure the design meets business objectives and user needs, save developer time and money by identifying potential issues before implementation, and provide a blueprint for building scalable and maintainable systems.
+
 - Standardizing communication methods across systems, ensuring consistent error handling, choosing performant communication protocols, and minimizing the number of jumps data must take between components.
+
+# MAIN 4 PRINCIPLES OF ARCHITECUTRE DESIGNS
+
+1. MODULARITY 
+
+Each component should have a specific task and be able to clearly explain what it does
+
+2. SCALABILITY
+
+Designing a system to handle growth of traffic, ensuring individual modules can scale, 
+
+and preventing bottlenecks that impact system performance
+
+3. FLEXIBILITY 
+
+The system should be designed to accommodate future changes and features, avoiding scenarios where major refactoring is needed to implement new functionality
+
+4. ROBUSTNESS
+
+Properly handling unexpected situations, creating clear error codes, ensuring systems can respond to errors without crashing, and creating a structured approach to error communication
