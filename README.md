@@ -102,3 +102,25 @@ Unable to support the technology, lack of troubleshooting knowledge, and potenti
 
 Engineering resources, engineering time, manager planning, and overall financial investment in development
 
+<hr />
+
+# WHEN TO USE BACKEND ARCHITECTURE DESIGN?
+
+- "greenfield" Starting a new project from scratch without existing constraints or impacts, where you can explore and build new systems without having to integrate with or modify existing infrastructure
+
+## system designs help identify and address challenges in existing systems
+
+- By helping to identify bottlenecks, analyze specific problems, introduce improvements like asynchronicity, decouple complex components, and potentially reduce engineering overhead by simplifying or delegating system complexities
+
+## Potential benefits of improving system architecture regarding developer productivity
+
+Reducing multi-point code updates, centralizing service logic, creating focused team responsibilities, minimizing repetitive lookup operations, and simplifying service interactions
+
+## Why might an organization want to break complex problems into more manageable parts
+
+To reduce engineering overhead, delegate complex tasks to specialized services or cloud providers, simplify system maintenance, and make the overall system architecture more modular and easier to understand
+
+## How can system design documentation improve team communication?
+
+By reducing reliance on tribal knowledge, providing clear architectural diagrams, facilitating easier team handoffs, documenting existing systems, and creating a shared understanding of system components and interactions
+
