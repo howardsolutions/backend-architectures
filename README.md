@@ -80,3 +80,25 @@ It allows changing or growing different parts independently without affecting th
 
 To satisfy legal requirements, meet SecOps policies, prevent unauthorized service access, protect sensitive data, and mitigate potential financial and legal risks.
 
+### the primary goal of designing adaptable systems?
+
+reduce developer friction, prevent system complexity, enable easier growth and modification, and allow focused changes 
+to specific system components
+
+## three key considerations when choosing a technology stack for a system
+
+- Understanding the technology, experimentation, and the ability to support and troubleshoot it in production
+
+## What is a critical but often overlooked aspect of resource management in technology development?
+- Engineering hours and the total time spent on system development and maintenance
+
+- To ensure buy-in, avoid challenging discussions, create a collaborative culture, and prevent stepping on anyone's toes
+
+## What potential risk exists when selecting new or flashy technologies?
+
+Unable to support the technology, lack of troubleshooting knowledge, and potential future complications
+
+## What does resource management encompass beyond cloud resources?
+
+Engineering resources, engineering time, manager planning, and overall financial investment in development
+
