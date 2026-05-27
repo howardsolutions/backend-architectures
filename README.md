@@ -171,6 +171,34 @@ Identify the PRIMARY PURPOSE and SCOPE of the system.
 
 - Specify the requirements for integrating the new system with existing systems.
 
+#### EXPLORATION: 
+
+- Research and testing of new technologies. After setting requirements.
+
+- experimenting with new methodologies and tools.
+
+- Determine if the goal is to improve the system design ENTIRELY (INNOVATION) or MAKE SMALL CHANGES where needed (iteration).
+
+#### TECHNICAL DOCMENTATIONS
+
+- Used for understanding possible explored solutions or ideas which keep the project on path.
+
+- Provide detailed descriptions of the explored systems, including architectures, modules, interfaces, and data relevant to the project.
+
+- to reference for the development team and other stakeholders.
+
+- facillitate communication and collaboration.
+
+Exploration and research of new technologies, methodologies, and potential system improvements, followed by writing technical documentation to capture findings and potential solutions
+
+#### How long should the research and requirements defining phase typically take?
+Between one week to one month, with the goal of avoiding excessive time spent without producing actionable insights
+
+#### What is the recommended approach to defining system architecture?
+
+Create a 'jigsaw' approach where individual components are mapped out, using workflows, charts, and diagrams to understand how different elements 
+interface and work together, ensuring high modularity and compatibility
+
 ### 2. Implement
 
 
