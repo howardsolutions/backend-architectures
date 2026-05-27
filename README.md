@@ -143,3 +143,35 @@ Understanding user experience can reveal problems like slow response times, whic
 
 When evaluating technological trends, developers should be aware of new technologies without blindly adopting them. It's crucial to understand not just the potential benefits but also the maintenance challenges, implementation complexity, and whether the technology truly solves the specific project needs.
 
+<hr />
+
+# HOW TO IMPLEMENT BACKEND ARCHITECTURE DESIGN?
+
+## Design Stages
+
+### 1. Research
+
+#### Setting Requirements: 
+
+Identify the PRIMARY PURPOSE and SCOPE of the system.
+
+- Understand the needs and expectations of the end-users of the system.
+
+- Determine the functionality that the system needs to provide to meet the end-users needs.
+
+- Specify the performance levels that the system needs to achieve.
+
+- Identify any constraints or limitations , such as budget, resources, or time.
+
+- Consider the scalability needs of the system - how it can grow and adapt to increased demand.
+
+- Determine any security requirements to protect data and process within the system.
+
+- Identify any regulatory or compliance requirements that the system needs to meet.
+
+- Specify the requirements for integrating the new system with existing systems.
+
+### 2. Implement
+
+
+### 3. Iterate
