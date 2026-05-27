@@ -124,3 +124,22 @@ To reduce engineering overhead, delegate complex tasks to specialized services o
 
 By reducing reliance on tribal knowledge, providing clear architectural diagrams, facilitating easier team handoffs, documenting existing systems, and creating a shared understanding of system components and interactions
 
+## KEY FACTORS TO CONSIDER WHEN DECIDING ON A BACK-END ARCHITECTURE DESIGN
+
+project requirements (functionality, performance, security, scalability)
+team expertise
+budget, time constraints, project size and complexity
+maintenance needs, technological choices, user feedback,
+market trends, and legal/regulatory requirements.
+
+### How do time constraints impact system design and development?
+
+Time constraints help developers focus on essential tasks, 
+prevent over-complication, enable faster iteration, and ensure efficient use of project resources. 
+Developers should avoid spending too much time exploring and instead allocate time strategically to deliver the project effectively.
+
+User feedback helps identify potential performance issues, user experience challenges, and architectural limitations. 
+Understanding user experience can reveal problems like slow response times, which can impact user engagement and satisfaction, especially given modern users' short attention spans.
+
+When evaluating technological trends, developers should be aware of new technologies without blindly adopting them. It's crucial to understand not just the potential benefits but also the maintenance challenges, implementation complexity, and whether the technology truly solves the specific project needs.
+
