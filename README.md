@@ -199,6 +199,25 @@ Between one week to one month, with the goal of avoiding excessive time spent wi
 Create a 'jigsaw' approach where individual components are mapped out, using workflows, charts, and diagrams to understand how different elements 
 interface and work together, ensuring high modularity and compatibility
 
+###  the primary steps to take after setting project requirements?
+
+- Exploration and research of new technologies, methodologies, and potential system improvements, followed by writing technical documentation to capture findings and potential solutions
+
+### key considerations should be made during the exploration phase of system design?
+
+- Determine whether the goal is to improve the entire system design, innovate, or make small incremental changes, while being mindful of project scope, time constraints, and overall company needs
+
+###  the primary purpose of creating technical documents during system exploration?
+To document explored systems, architectures, models, interfaces, and data; facilitate communication and collaboration; and provide a reference for future discussions and decision-making
+
+### How long should the research and requirements defining phase typically take?
+Between one week to one month, with the goal of avoiding excessive time spent without producing actionable insights
+
+### What is the recommended approach to defining system architecture?
+
+Create a 'jigsaw' approach where individual components are mapped out, using workflows, charts, and diagrams to understand how different elements interface and work together, ensuring high modularity and compatibility
+
+
 ### 2. Implement
 
 
