@@ -333,3 +333,37 @@ Create a **'jigsaw' approach** where individual components are mapped out, using
 </details>
 
 </details>
+
+<hr />
+
+# COMMON BACKEND SYSTEM ARCHITECTURES
+
+## Monolithic
+
+- is a model where all the necessary code and components for a software application are COMBINED INTO A SINGLE UNIT.
+
+- has all FUNCTIONALITIES tighly COUPLED, running in the SAME SYSTEM.
+
+- simple to develop, test, deploy due to its unified system.
+
+### PRO
+
+- Simplicity: simple to develop, test, deploy due to its unified system
+
+- Consistency: Allows for uniformity in handling requests as Every module uses the same set of procedures.
+
+- Efficiency: Since all the functionalities are interconnected, it can be more efficient in terms of inter-process communication.
+
+- Easy to scale VERTICALLY. 
+Instead of creating multiple service replicas, vertical scaling involves making a single service larger by adding more memory and CPU resources to handle increased load
+
+### CONS
+
+- Limited Scalability: scaling specific functions of a system IS NOT POSSIBLE.
+THE ENTIRE SYSTEM NEEDS TO BE SCALED. Everything in one place, you have to scale everything...
+
+- Lack of FLEXIBILITY: changes to a single component, require the entire system to be RE-DEPLOYED
+
+- Complexity: The system can become TOO COMPLEX, and HARD TO MANAGE as application grows, just after a fews
+
+As the monolith grows, it becomes harder to organize components, potential for unintended side effects from changes, increased reliance on comprehensive testing, and difficulty in understanding the full system's interactions
